@@ -1,9 +1,9 @@
-.App {
-  text-align: center;
-}
-
 .App h1 {
   color: rgb(140, 15, 172);
+  text-align: center;
+}
+.sub-title {
+  text-align: center;
 }
 
 .App-logo {
