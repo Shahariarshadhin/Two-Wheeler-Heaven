@@ -1,0 +1,87 @@
+[
+    {
+      "id": "1",
+      "name": "Yamaha",
+      "model": "R15",
+      "price": 435000,
+      "img": "https://newresultbd.com/wp-content/uploads/2021/06/Yamaha-R15-V3-712x470.png"
+    },
+    {
+        "id": "2",
+        "name": "Yamaha",
+        "model": "XSR 155",
+        "price": 545000,
+        "img": "https://deshibiker.com/wp-content/uploads/2019/02/yamaha-xs-r155_5eca3865bb3f4.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Yamaha",
+        "model": "FZ V2",
+        "price": 210000,
+        "img": "https://5.imimg.com/data5/IM/KF/RH/SELLER-10578870/yamaha-fzs-fi-149-cc-armada-blue-motorcycle-500x500.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Suzuki",
+        "model": "Gixxer SF 250",
+        "price": 302000,
+        "img": "https://www.bdprice.com.bd/wp-content/uploads/2020/05/Suzuki-Gixxer-SF-250.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Suzuki",
+        "model": "GSX-R 150",
+        "price": 350000,
+        "img": "https://bengalbiker.com/wp-content/uploads/2019/10/Suzuki-GSX-R150-2.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Honda",
+        "model": "CBR 150R",
+        "price": 540000,
+        "img": "https://www.mototechindia.com/wp-content/uploads/2020/12/honda-cbr-150-price.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Honda",
+        "model": "CBR150R Repsol",
+        "price": 480000,
+        "img": "https://classyprice.com.bd/images/honda-cbr150r-repsol.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Honda",
+        "model": "CB Hornet 160R",
+        "price": 255000,
+        "img": "https://www.classyprice.com.bd/images/honda-cb-hornet-160r-img01.jpg"
+    },
+    {
+        "id": "9",
+        "name": "TVS",
+        "model": "Apache RTR-160CC 4V",
+        "price": 190000,
+        "img": "https://www.kablewala.com.bd/images/detailed/211/673f30e69c37-bl-1_zx0a-ol.jpg"
+    },
+    {
+        "id": "10",
+        "name": "KTM",
+        "model": "KTM RC 125",
+        "price": 390000,
+        "img": "https://www.bdprice.com.bd/wp-content/uploads/2020/04/KTM-RC-125-500x500.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Bajaj",
+        "model": "Pulsar NS 160",
+        "price": 182900,
+        "img": "https://classyprice.com.bd/images/bajaj-pulsar-ns160-blue.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Aprilia",
+        "model": "Aprilia RS 150",
+        "price": 615000,
+        "img": "https://amarprice.com/wp-content/uploads/2019/03/Aprilia-RS-150.jpg"
+    }
+
+]
