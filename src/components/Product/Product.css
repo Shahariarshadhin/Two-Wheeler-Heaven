@@ -1,0 +1,29 @@
+.product {
+  width: 300px;
+  height: 480px;
+  background-color: rgb(243, 239, 239);
+  padding: 20px;
+  border: 1px solid rgb(175, 174, 174);
+  border-radius: 20px;
+  position: relative;
+}
+
+.product img {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+}
+
+.product img:hover {
+  transform: translate(20px, 10px);
+}
+
+.btn-cart {
+  width: 100%;
+  background-color: rgb(238, 214, 184);
+  border: none;
+  border-radius: 0px 0px 8px 8px;
+}
+.btn-cart:hover {
+  background-color: orange;
+}
