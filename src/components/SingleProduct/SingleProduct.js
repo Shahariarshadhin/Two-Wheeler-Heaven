@@ -1,4 +1,4 @@
-import React from 'react';
+/* import React from 'react';
 
 const SingleProduct = ({ product }) => {
 
@@ -10,4 +10,4 @@ const SingleProduct = ({ product }) => {
     );
 };
 
-export default SingleProduct;
+export default SingleProduct; */

@@ -20,6 +20,19 @@ const Shop = () => {
         setCart(newCart)
 
     }
+
+    const chooseForME = (cart) => {
+
+
+        const item = cart[Math.floor(Math.random() * cart.length)];
+        const newCart = [item];
+        setCart(newCart);
+
+
+    }
+    const chooseAgain = (cart) => {
+        setCart([]);
+    }
     return (
         <div className='shop-container'>
             <div className="products-container">
@@ -39,7 +52,7 @@ const Shop = () => {
 
 
             <div className="cart-container">
-                <Cart cart={cart}></Cart>
+                <Cart cart={cart} chooseForME={chooseForME} chooseAgain={chooseAgain}></Cart>
             </div>
         </div>
     );
