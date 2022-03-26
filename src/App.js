@@ -1,5 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
+import QsAndAns from './components/QsAndAns/QsAndAns';
 import Shop from './components/Shop/Shop';
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <h4 className='sub-title'>Choose Your Best One!</h4>
 
       <Shop></Shop>
+      <QsAndAns></QsAndAns>
     </div>
   );
 }
